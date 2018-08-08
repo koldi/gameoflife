@@ -1,0 +1,5 @@
+name "gameoflife"
+description "game of life"
+authors "Gyögry Katona"
+copyright "Copyright © 2018, Gyögry Katona"
+license "proprietary"

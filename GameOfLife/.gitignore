@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+gameoflife.so
+gameoflife.dylib
+gameoflife.dll
+gameoflife.a
+gameoflife.lib
+gameoflife-test-*
+*.exe
+*.o
+*.obj
+*.lst
